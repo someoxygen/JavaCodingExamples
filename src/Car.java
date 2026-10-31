@@ -23,4 +23,9 @@ public class Car {
     public void drive(){
         System.out.println("You drive a " + name + " " + model + " car.");
     }
+
+    @Override
+    public String toString(){
+        return this.name + " " + this.model + " " + this.creationYear;
+    }
 }

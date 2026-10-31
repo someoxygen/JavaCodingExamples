@@ -21,5 +21,11 @@ public class OOPFirst {
         for(Car car : cars){
             car.drive();
         }
+
+        Car car2 = new Car("Ford","Fiesta",2017);
+        System.out.println(car2);
+
+        Car car3 = new Car("BMW","A4",2023);
+        System.out.println(car3);
     }
 }
