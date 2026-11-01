@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClassExample/AnonymousClassExample.iml" filepath="$PROJECT_DIR$/AnonymousClassExample/AnonymousClassExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListExamples/ArrayListExamples.iml" filepath="$PROJECT_DIR$/ArrayListExamples/ArrayListExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTimeExamples/DateTimeExamples.iml" filepath="$PROJECT_DIR$/DateTimeExamples/DateTimeExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileReader/FileReader.iml" filepath="$PROJECT_DIR$/FileReader/FileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWriter/FileWriter.iml" filepath="$PROJECT_DIR$/FileWriter/FileWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/GettersSettersExample/GettersSettersExample.iml" filepath="$PROJECT_DIR$/GettersSettersExample/GettersSettersExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" filepath="$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCodingExamples.iml" filepath="$PROJECT_DIR$/JavaCodingExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/RuntimePolymorphism/RuntimePolymorphism.iml" filepath="$PROJECT_DIR$/RuntimePolymorphism/RuntimePolymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/WrapperClasses/WrapperClasses.iml" filepath="$PROJECT_DIR$/WrapperClasses/WrapperClasses.iml" />
