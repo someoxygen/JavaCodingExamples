@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/FileWriter/FileWriter.iml" filepath="$PROJECT_DIR$/FileWriter/FileWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericClassExample/GenericClassExample.iml" filepath="$PROJECT_DIR$/GenericClassExample/GenericClassExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/GettersSettersExample/GettersSettersExample.iml" filepath="$PROJECT_DIR$/GettersSettersExample/GettersSettersExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HangmanGameProject/HangmanGameProject.iml" filepath="$PROJECT_DIR$/HangmanGameProject/HangmanGameProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMapExample/HashMapExample.iml" filepath="$PROJECT_DIR$/HashMapExample/HashMapExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" filepath="$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
